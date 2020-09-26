@@ -3,7 +3,7 @@ print('Please choose any of the options below')
 choice='-'
 
 while True:
-    if choice=='0':
+    if choice=='1':
         break
     elif choice in '1234':
         print('you have choosen {}'.format(choice))
